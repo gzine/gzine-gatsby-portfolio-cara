@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `Gzinetech.com`,
     siteTitleAlt: `Gzinetech.com`,
     siteHeadline: `Gzinetech.com`,
-    siteUrl: `Gzinetech.com`,
+    siteUrl: `https://Gzinetech.com`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
